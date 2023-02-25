@@ -5,12 +5,4 @@ Creación de un blog para la pagina web [drguarin.com](https://www.drguarin.com/
 # Calculadoras Médicas
 Todas las calculadoras medicas creadas con javascript enfocadas en las guias de practica clínica
 
-creado por el increible guarin
-
-es el mejor de todos los medicos
-
-aprende mucho con el
-
-Los amo
-
 Feliz día
